@@ -1,6 +1,6 @@
 # ExpNo 5 : Implement Simple Hill Climbing Algorithm
 
-Name:Yamunaasri T S
+Name: Yamunaasri T S
 
 Register Number: 212222240117
 
